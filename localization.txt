@@ -1,0 +1,370 @@
+﻿[LanguageSet]
+Language=3
+0=Korea
+1=English
+2=Japan
+3=Taiwan
+4=China
+5=Thailand
+6=Philippine
+7=Indonesia
+8=Russia
+9=Europe
+10=Germany
+11=France
+12=Poland
+13=Turkey
+EnableEngSelection=false
+
+[Korea]
+Korea_Code=k
+Korea_Font=L2Font.SmallFont
+Korea_Glyph=SmallFont.gly
+Korea_Font2=L2Font.LargeFont
+Korea_Glyph2=LargeFont.gly
+Korea_Minimap=L2Font.Minimap.worldmap
+Korea_LogoTexture=L2Font.start_logo-k
+Korea_MiniLogoTexture=L2Font.mini_logo-k
+Korea_TownMap=L2Font.TownMap
+Korea_ReplayLogoTexture=L2Font.Replay_logo-k
+Korea_FontLib=fontskr.gfx
+
+[English]
+English_Code=e
+English_Font=L2Font-e.SmallFont-e
+English_Glyph=SmallFont-e.gly
+English_Font2=L2Font-e.LargeFont-e
+English_Glyph2=LargeFont-e.gly
+English_Minimap=L2Font-e.Minimap.worldmap
+English_LogoTexture=L2Font-e.start_logo-e
+English_LoadingTexture=L2Font-e.loading02-e
+English_MiniLogoTexture=L2Font-e.mini_logo-e
+English_TownMap=L2Font-e.TownMap
+English_ReplayLogoTexture=L2Font-e.Replay_logo-e
+English_FontLib=fontsnonexistent.gfx
+
+[Japan]
+Japan_Code=j
+Japan_Font=L2Font-j.SmallFont-j
+Japan_Glyph=SmallFont-j.gly
+Japan_Font2=L2Font-j.LargeFont-j
+Japan_Glyph2=LargeFont-j.gly
+Japan_Minimap=L2Font-j.Minimap.worldmap
+Japan_LogoTexture=L2Font-j.start_logo-j
+Japan_LoadingTexture=L2Font-j.loading02-j
+Japan_MiniLogoTexture=L2Font-j.mini_logo-j
+Japan_TownMap=L2Font-j.TownMap
+Japan_ReplayLogoTexture=L2Font-j.Replay_logo-j
+Japan_FontLib=fontsnonexistent.gfx
+
+[Taiwan]
+Taiwan_Code=tw
+Taiwan_Font=L2Font-tw.SmallFont-tw
+Taiwan_Glyph=SmallFont-tw.gly
+Taiwan_Font2=L2Font-tw.LargeFont-tw
+Taiwan_Glyph2=LargeFont-tw.gly
+Taiwan_Minimap=L2Font-tw.Minimap.worldmap
+Taiwan_LogoTexture=L2Font-tw.start_logo-tw
+Taiwan_LoadingTexture=L2Font-tw.loading02-tw
+Taiwan_MiniLogoTexture=L2Font-tw.mini_logo-tw
+Taiwan_TownMap=L2Font-tw.TownMap
+Taiwan_ReplayLogoTexture=L2Font-tw.Replay_logo-tw
+Taiwan_FontLib=fontsnonexistent.gfx
+
+[China]
+China_Code=cn
+China_Font=L2Font-cn.SmallFont-cn
+China_Glyph=SmallFont-cn.gly
+China_Font2=L2Font-cn.LargeFont-cn
+China_Glyph2=LargeFont-cn.gly
+China_Minimap=L2Font-cn.Minimap.worldmap
+China_LogoTexture=L2Font-cn.start_logo-cn
+China_LoadingTexture=L2Font-cn.loading02-cn
+China_MiniLogoTexture=L2Font-cn.mini_logo-cn
+China_TownMap=L2Font-cn.TownMap
+China_ReplayLogoTexture=L2Font-cn.Replay_logo-cn
+China_FontLib=fontsnonexistent.gfx
+
+[Thailand]
+Thailand_Code=th
+Thailand_Font=L2Font-th.SmallFont-th
+Thailand_Glyph=SmallFont-th.gly
+Thailand_Font2=L2Font-th.LargeFont-th
+Thailand_Glyph2=LargeFont-th.gly
+Thailand_Minimap=L2Font-th.Minimap.worldmap
+Thailand_LogoTexture=L2Font-th.start_logo-th
+Thailand_LoadingTexture=L2Font-th.loading02-th
+Thailand_MiniLogoTexture=L2Font-th.mini_logo-th
+Thailand_TownMap=L2Font-th.TownMap
+Thailand_ReplayLogoTexture=L2Font-th.Replay_logo-th
+Thailand_FontLib=fontsnonexistent.gfx
+
+[Philippine]
+Philippine_Code=ph
+Philippine_Font=L2Font-ph.SmallFont-ph
+Philippine_Glyph=SmallFont-ph.gly
+Philippine_Font2=L2Font-e.LargeFont-ph
+Philippine_Glyph2=LargeFont-ph.gly
+Philippine_Minimap=L2Font-ru.Minimap.worldmap
+Philippine_LogoTexture=L2Font-ph.start_logo-ph
+Philippine_LoadingTexture=L2Font-ph.loading02-ph
+Philippine_MiniLogoTexture=L2Font-ph.mini_logo-ph
+Philippine_TownMap=L2Font-ph.TownMap
+Philippine_ReplayLogoTexture=L2Font-e.Replay_logo-ph
+Philippine_FontLib=fontsnonexistent.gfx
+
+[Indonesia]
+Indonesia_Code=id
+Indonesia_Font=L2Font-id.SmallFont-id
+Indonesia_Glyph=SmallFont-id.gly
+Indonesia_Font2=L2Font-id.LargeFont-id
+Indonesia_Glyph2=LargeFont-id.gly
+Indonesia_Minimap=L2Font-id.Minimap.worldmap
+Indonesia_LogoTexture=L2Font-id.start_logo-id
+Indonesia_LoadingTexture=L2Font-id.loading02-id
+Indonesia_MiniLogoTexture=L2Font-id.mini_logo-id
+Indonesia_TownMap=L2Font-id.TownMap
+Indonesia_ReplayLogoTexture=L2Font-id.Replay_logo-id
+Indonesia_FontLib=fontsnonexistent.gfx
+
+[Russia]
+Russia_Code=ru
+Russia_Font=L2Font-ru.SmallFont-ru
+Russia_Glyph=SmallFont-ru.gly
+Russia_Font2=L2Font-ru.LargeFont-ru
+Russia_Glyph2=LargeFont-ru.gly
+Russia_Minimap=L2Font-ru.Minimap.worldmap
+Russia_LogoTexture=L2Font-ru.start_logo-ru
+Russia_LoadingTexture=L2Font-ru.loading02-ru
+Russia_MiniLogoTexture=L2Font-ru.mini_logo-ru
+Russia_TownMap=L2Font-ru.TownMap
+Russia_ReplayLogoTexture=L2Font-ru.Replay_logo-ru
+Russia_FontLib=fontsnonexistent.gfx
+
+[Europe]
+Europe_Code=eu
+Europe_Font=L2Font-eu.SmallFont-eu
+Europe_Glyph=SmallFont-eu.gly
+Europe_Font2=L2Font-eu.LargeFont-eu
+Europe_Glyph2=LargeFont-eu.gly
+Europe_Minimap=L2Font-eu.Minimap.worldmap
+Europe_LogoTexture=L2Font-eu.start_logo-eu
+Europe_LoadingTexture=L2Font-eu.loading02-eu
+Europe_MiniLogoTexture=L2Font-eu.mini_logo-eu
+Europe_TownMap=L2Font-eu.TownMap
+Europe_ReplayLogoTexture=L2Font-eu.Replay_logo-eu
+Europe_FontLib=fontsnonexistent.gfx
+
+[Germany]
+Germany_Code=de
+Germany_Font=L2Font-de.SmallFont-de
+Germany_Glyph=SmallFont-de.gly
+Germany_Font2=L2Font-de.LargeFont-de
+Germany_Glyph2=LargeFont-de.gly
+Germany_Minimap=L2Font-de.Minimap.worldmap
+Germany_LogoTexture=L2Font-de.start_logo-de
+Germany_LoadingTexture=L2Font-de.loading02-de
+Germany_MiniLogoTexture=L2Font-de.mini_logo-de
+Germany_TownMap=L2Font-de.TownMap
+Germany_ReplayLogoTexture=L2Font-de.Replay_logo-de
+Germany_FontLib=fontsnonexistent.gfx
+
+[France]
+France_Code=fr
+France_Font=L2Font-fr.SmallFont-fr
+France_Glyph=SmallFont-fr.gly
+France_Font2=L2Font-fr.LargeFont-fr
+France_Glyph2=LargeFont-fr.gly
+France_Minimap=L2Font-fr.Minimap.worldmap
+France_LogoTexture=L2Font-fr.start_logo-fr
+France_LoadingTexture=L2Font-fr.loading02-fr
+France_MiniLogoTexture=L2Font-fr.mini_logo-fr
+France_TownMap=L2Font-fr.TownMap
+France_ReplayLogoTexture=L2Font-fr.Replay_logo-fr
+France_FontLib=fontsnonexistent.gfx
+
+[Poland]
+Poland_Code=pl
+Poland_Font=L2Font-pl.SmallFont-pl
+Poland_Glyph=SmallFont-pl.gly
+Poland_Font2=L2Font-pl.LargeFont-pl
+Poland_Glyph2=LargeFont-pl.gly
+Poland_Minimap=L2Font-pl.Minimap.worldmap
+Poland_LogoTexture=L2Font-pl.start_logo-pl
+Poland_LoadingTexture=L2Font-pl.loading02-pl
+Poland_MiniLogoTexture=L2Font-pl.mini_logo-pl
+Poland_TownMap=L2Font-pl.TownMap
+Poland_ReplayLogoTexture=L2Font-pl.Replay_logo-pl
+Poland_FontLib=fontsnonexistent.gfx
+
+[Turkey]
+Turkey_Code=tr
+Turkey_Font=L2Font-tr.SmallFont-tr
+Turkey_Glyph=SmallFont-tr.gly
+Turkey_Font2=L2Font-tr.LargeFont-tr
+Turkey_Glyph2=LargeFont-tr.gly
+Turkey_Minimap=L2Font-tr.Minimap.worldmap
+Turkey_LogoTexture=L2Font-tr.start_logo-tr
+Turkey_LoadingTexture=L2Font-tr.loading02-tr
+Turkey_MiniLogoTexture=L2Font-tr.mini_logo-tr
+Turkey_TownMap=L2Font-tr.TownMap
+Turkey_ReplayLogoTexture=L2Font-tr.Replay_logo-tr
+Turkey_FontLib=fontsnonexistent.gfx
+
+;Petition Category setting
+[CategoryNum]
+Num=9
+
+[Category1]
+Title=696
+LINK=pet_help_move.htm
+
+[Category2]
+Title=697
+LINK=pet_help_recover.htm
+
+[Category3]
+Title=698
+LINK=pet_help_bug.htm
+
+[Category4]
+Title=699
+LINK=pet_help_quest.htm
+
+[Category5]
+Title=700
+LINK=pet_help_report.htm
+
+[Category6]
+Title=701
+LINK=pet_help_suggest.htm
+
+[Category7]
+Title=702
+LINK=pet_help_game.htm
+
+[Category8]
+Title=703
+LINK=pet_help_oprn.htm
+
+[Category9]
+Title=704
+LINK=pet_help_etc.htm
+
+[Korea_FontMap]
+$NormalFont="AsiaHS-NC-0502" Normal
+$NormalFont_Bold="AsiaHS-NC-0502" Bold
+$NormalFont_Italic="AsiaHS-NC-0502" Italic
+$NormalFont_Bold_Italic="AsiaHS-NC-0502" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[English_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[Japan_FontMap]
+$NormalFont="MS Gothic" Normal
+$NormalFont_Bold="MS Gothic" Bold
+$NormalFont_Italic="MS Gothic" Italic
+$NormalFont_Bold_Italic="MS Gothic" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[Taiwan_FontMap]
+$NormalFont="MingLiu" Normal
+$NormalFont_Bold="MingLiu" Bold
+$NormalFont_Italic="MingLiu" Italic
+$NormalFont_Bold_Italic="MingLiu" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[China_FontMap]
+$NormalFont="MingLiu" Normal
+$NormalFont_Bold="MingLiu" Bold
+$NormalFont_Italic="MingLiu" Italic
+$NormalFont_Bold_Italic="MingLiu" Bold Italic
+$DamageTextFont="MingLiU" Normal
+
+[Philippine_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Normal Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Tahoma" Normal
+
+[Thailand_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Tahoma" Normal
+
+[Indonesia_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Tahoma" Normal
+
+[Russia_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Tahoma" Normal
+
+[Europe_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[Germany_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[France_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[Poland_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[Turkey_FontMap]
+$NormalFont="Tahoma" Normal
+$NormalFont_Bold="Tahoma" Bold
+$NormalFont_Italic="Tahoma" Italic
+$NormalFont_Bold_Italic="Tahoma" Bold Italic
+$DamageTextFont="Sylfaen" Normal
+
+[English_CashShop_Cateory]
+;CATEORY : all(0) enchanting(1),consuming(2),decorating(3),package(4),etc(5)
+;TYPE : event(1),best(2),new(4)
+;show,cateory,tabtype,showtab,sysstring
+PRESENT_DISABLE=true
+TAB_SETTING=true
+TAB1=1, 4, 1, 0, 5008
+TAB2=1, 1, 0, 1, 5096
+TAB3=1, 3, 1, 0, 5007
+TAB4=1, 6, 1, 0, 5095
+TAB5=1, 2, 1, 0, 5006
+TAB6=1, 5, 1, 0, 5009
+TAB7=1, 0, 0, 0, 5002
+TAB8=1, 0, 2, 0, 5031
+TAB9=0, 0, 2, 0, 5031
+
+[Europe_CashShop_Cateory]
+COIN_CHANGE_MONEY=true
+COIN_MONEY_VALUE=0.01

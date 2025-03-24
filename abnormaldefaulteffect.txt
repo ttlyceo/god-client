@@ -1,0 +1,14 @@
+﻿id	UnknownString[0]	UnknownString[1]	UnknownInt[0]	UnknownInt[1]	UnknownInt[2]	UnknownFloat[0]	UnknownFloat[1]
+68	a,d_nochat_ave\0	a,e_bone\0	1	0	0	10.00000000	1.00000000
+69	a,d_herb_power_ave\0	a,	1	0	0	0.00000000	1.00000000
+70	a,d_herb_magic_ave\0	a,	1	0	0	0.00000000	1.00000000
+73	a,d_tali_deco_c\0	a,FX_RHAND_01\0	1	0	0	0.00000000	1.00000000
+74	a,d_tali_deco_d\0	a,FX_RHAND_01\0	1	0	0	0.00000000	1.00000000
+75	a,d_tali_deco_e\0	a,FX_RHAND_01\0	1	0	0	0.00000000	1.00000000
+76	a,d_tali_deco_f\0	a,FX_RHAND_01\0	1	0	0	0.00000000	1.00000000
+76	a,d_tali_deco_g\0	a,	0	0	0	-20.00000000	1.00000000
+78	a,d_changeshape_transform\0	a,	1	0	0	0.00000000	1.00000000
+79	a,d_changeshape_transform\0	a,	1	0	0	0.00000000	1.00000000
+80	a,d_changeshape_transform\0	a,	1	0	0	0.00000000	1.00000000
+81	a,d_changeshape_transform\0	a,	1	0	0	0.00000000	1.00000000
+82	a,d_changeshape_transform\0	a,	1	0	0	0.00000000	1.00000000

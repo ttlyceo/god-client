@@ -1,0 +1,3 @@
+﻿tag	tag2	tag3
+a,DualCastShot\0	DCShotL	DCShotR
+a,DualCastDrag\0	DCDragL	DCDragR

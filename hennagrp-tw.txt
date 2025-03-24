@@ -1,0 +1,271 @@
+﻿id	dye_id	name	icon	symbol_add_name	symbol_add_desc
+1	4445	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Con-3\0	a,Str+1 Con-3\0
+2	4446	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Dex-3\0	a,Str+1 Dex-3\0
+3	4447	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Str-3\0	a,Con+1 Str-3\0
+4	4448	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Dex-3\0	a,Con+1 Dex-3\0
+5	4449	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Str-3\0	a,Dex+1 Str-3\0
+6	4450	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Con-3\0	a,Dex+1 Con-3\0
+7	4451	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Men-3\0	a,Int+1 Men-3\0
+8	4452	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Wit-3\0	a,Int+1 Wit-3\0
+9	4453	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Int-3\0	a,Men+1 Int-3\0
+10	4454	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Wit-3\0	a,Men+1 Wit-3\0
+11	4455	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Int-3\0	a,Wit+1 Int-3\0
+12	4456	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Men-3\0	a,Wit+1 Men-3\0
+13	4457	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Con-2\0	a,Str+1 Con-2\0
+14	4458	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Dex-2\0	a,Str+1 Dex-2\0
+15	4459	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Str-2\0	a,Con+1 Str-2\0
+16	4460	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Dex-2\0	a,Con+1 Dex-2\0
+17	4461	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Str-2\0	a,Dex+1 Str-2\0
+18	4462	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Con-2\0	a,Dex+1 Con-2\0
+19	4463	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Men-2\0	a,Int+1 Men-2\0
+20	4464	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Wit-2\0	a,Int+1 Wit-2\0
+21	4465	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Int-2\0	a,Men+1 Int-2\0
+22	4466	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Wit-2\0	a,Men+1 Wit-2\0
+23	4467	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Int-2\0	a,Wit+1 Int-2\0
+24	4468	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Men-2\0	a,Wit+1 Men-2\0
+25	4469	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Con-1\0	a,Str+1 Con-1\0
+26	4470	u,力量紋章\0	a,icon.etc_str_symbol_i00\0	a,Str+1 Dex-1\0	a,Str+1 Dex-1\0
+27	4471	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Str-1\0	a,Con+1 Str-1\0
+28	4472	u,體質紋章\0	a,icon.etc_con_symbol_i00\0	a,Con+1 Dex-1\0	a,Con+1 Dex-1\0
+29	4473	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Str-1\0	a,Dex+1 Str-1\0
+30	4474	u,敏捷紋章\0	a,icon.etc_dex_symbol_i00\0	a,Dex+1 Con-1\0	a,Dex+1 Con-1\0
+31	4475	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Men-1\0	a,Int+1 Men-1\0
+32	4476	u,智力紋章\0	a,icon.etc_int_symbol_i00\0	a,Int+1 Wit-1\0	a,Int+1 Wit-1\0
+33	4477	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Int-1\0	a,Men+1 Int-1\0
+34	4478	u,精神紋章\0	a,icon.etc_men_symbol_i00\0	a,Men+1 Wit-1\0	a,Men+1 Wit-1\0
+35	4479	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Int-1\0	a,Wit+1 Int-1\0
+36	4480	u,智慧紋章\0	a,icon.etc_wit_symbol_i00\0	a,Wit+1 Men-1\0	a,Wit+1 Men-1\0
+37	4481	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Con-3\0	a,Str+1 Con-3\0
+38	4482	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Dex-3\0	a,Str+1 Dex-3\0
+39	4483	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Str-3\0	a,Con+1 Str-3\0
+40	4484	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Dex-3\0	a,Con+1 Dex-3\0
+41	4485	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Str-3\0	a,Dex+1 Str-3\0
+42	4486	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Con-3\0	a,Dex+1 Con-3\0
+43	4487	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Men-3\0	a,Int+1 Men-3\0
+44	4488	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Wit-3\0	a,Int+1 Wit-3\0
+45	4489	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Int-3\0	a,Men+1 Int-3\0
+46	4490	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Wit-3\0	a,Men+1 Wit-3\0
+47	4491	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Int-3\0	a,Wit+1 Int-3\0
+48	4492	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Men-3\0	a,Wit+1 Men-3\0
+49	4493	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Con-2\0	a,Str+1 Con-2\0
+50	4494	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Dex-2\0	a,Str+1 Dex-2\0
+51	4495	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Str-2\0	a,Con+1 Str-2\0
+52	4496	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Dex-2\0	a,Con+1 Dex-2\0
+53	4497	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Str-2\0	a,Dex+1 Str-2\0
+54	4498	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Con-2\0	a,Dex+1 Con-2\0
+55	4499	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Men-2\0	a,Int+1 Men-2\0
+56	4500	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Wit-2\0	a,Int+1 Wit-2\0
+57	4501	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Int-2\0	a,Men+1 Int-2\0
+58	4502	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Wit-2\0	a,Men+1 Wit-2\0
+59	4503	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Int-2\0	a,Wit+1 Int-2\0
+60	4504	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Men-2\0	a,Wit+1 Men-2\0
+61	4505	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Con-4\0	a,Str+2 Con-4\0
+62	4506	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Dex-4\0	a,Str+2 Dex-4\0
+63	4507	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Str-4\0	a,Con+2 Str-4\0
+64	4508	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Dex-4\0	a,Con+2 Dex-4\0
+65	4509	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Str-4\0	a,Dex+2 Str-4\0
+66	4510	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Con-4\0	a,Dex+2 Con-4\0
+67	4511	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Men-4\0	a,Int+2 Men-4\0
+68	4512	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Wit-4\0	a,Int+2 Wit-4\0
+69	4513	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Int-4\0	a,Men+2 Int-4\0
+70	4514	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Wit-4\0	a,Men+2 Wit-4\0
+71	4515	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Int-4\0	a,Wit+2 Int-4\0
+72	4516	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Men-4\0	a,Wit+2 Men-4\0
+73	4517	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Con-3\0	a,Str+2 Con-3\0
+74	4518	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Dex-3\0	a,Str+2 Dex-3\0
+75	4519	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Str-3\0	a,Con+2 Str-3\0
+76	4520	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Dex-3\0	a,Con+2 Dex-3\0
+77	4521	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Str-3\0	a,Dex+2 Str-3\0
+78	4522	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Con-3\0	a,Dex+2 Con-3\0
+79	4523	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Men-3\0	a,Int+2 Men-3\0
+80	4524	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Wit-3\0	a,Int+2 Wit-3\0
+81	4525	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Int-3\0	a,Men+2 Int-3\0
+82	4526	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Wit-3\0	a,Men+2 Wit-3\0
+83	4527	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Int-3\0	a,Wit+2 Int-3\0
+84	4528	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Men-3\0	a,Wit+2 Men-3\0
+85	4529	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Con-5\0	a,Str+3 Con-5\0
+86	4530	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Dex-5\0	a,Str+3 Dex-5\0
+87	4531	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Str-5\0	a,Con+3 Str-5\0
+88	4532	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Dex-5\0	a,Con+3 Dex-5\0
+89	4533	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Str-5\0	a,Dex+3 Str-5\0
+90	4534	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Con-5\0	a,Dex+3 Con-5\0
+91	4535	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Men-5\0	a,Int+3 Men-5\0
+92	4536	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Wit-5\0	a,Int+3 Wit-5\0
+93	4537	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Int-5\0	a,Men+3 Int-5\0
+94	4538	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Wit-5\0	a,Men+3 Wit-5\0
+95	4539	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Int-5\0	a,Wit+3 Int-5\0
+96	4540	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Men-5\0	a,Wit+3 Men-5\0
+97	4541	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Con-4\0	a,Str+3 Con-4\0
+98	4542	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Dex-4\0	a,Str+3 Dex-4\0
+99	4543	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Str-4\0	a,Con+3 Str-4\0
+100	4544	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Dex-4\0	a,Con+3 Dex-4\0
+101	4545	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Str-4\0	a,Dex+3 Str-4\0
+102	4546	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Con-4\0	a,Dex+3 Con-4\0
+103	4547	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Men-4\0	a,Int+3 Men-4\0
+104	4548	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Wit-4\0	a,Int+3 Wit-4\0
+105	4549	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Int-4\0	a,Men+3 Int-4\0
+106	4550	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Wit-4\0	a,Men+3 Wit-4\0
+107	4551	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Int-4\0	a,Wit+3 Int-4\0
+108	4552	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Men-4\0	a,Wit+3 Men-4\0
+109	4553	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Con-1\0	a,Str+1 Con-1\0
+110	4554	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+1 Dex-1\0	a,Str+1 Dex-1\0
+111	4555	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Str-1\0	a,Con+1 Str-1\0
+112	4556	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+1 Dex-1\0	a,Con+1 Dex-1\0
+113	4557	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Str-1\0	a,Dex+1 Str-1\0
+114	4558	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+1 Con-1\0	a,Dex+1 Con-1\0
+115	4559	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Men-1\0	a,Int+1 Men-1\0
+116	4560	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+1 Wit-1\0	a,Int+1 Wit-1\0
+117	4561	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Int-1\0	a,Men+1 Int-1\0
+118	4562	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+1 Wit-1\0	a,Men+1 Wit-1\0
+119	4563	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Int-1\0	a,Wit+1 Int-1\0
+120	4564	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+1 Men-1\0	a,Wit+1 Men-1\0
+121	4565	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Con-6\0	a,Str+4 Con-6\0
+122	4566	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Dex-6\0	a,Str+4 Dex-6\0
+123	4567	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Str-6\0	a,Con+4 Str-6\0
+124	4568	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Dex-6\0	a,Con+4 Dex-6\0
+125	4569	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Str-6\0	a,Dex+4 Str-6\0
+126	4570	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Con-6\0	a,Dex+4 Con-6\0
+127	4571	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Men-6\0	a,Int+4 Men-6\0
+128	4572	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Wit-6\0	a,Int+4 Wit-6\0
+129	4573	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Int-6\0	a,Men+4 Int-6\0
+130	4574	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Wit-6\0	a,Men+4 Wit-6\0
+131	4575	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Int-6\0	a,Wit+4 Int-6\0
+132	4576	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Men-6\0	a,Wit+4 Men-6\0
+133	4577	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Con-5\0	a,Str+4 Con-5\0
+134	4578	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Dex-5\0	a,Str+4 Dex-5\0
+135	4579	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Str-5\0	a,Con+4 Str-5\0
+136	4580	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Dex-5\0	a,Con+4 Dex-5\0
+137	4581	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Str-5\0	a,Dex+4 Str-5\0
+138	4582	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Con-5\0	a,Dex+4 Con-5\0
+139	4583	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Men-5\0	a,Int+4 Men-5\0
+140	4584	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Wit-5\0	a,Int+4 Wit-5\0
+141	4585	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Int-5\0	a,Men+4 Int-5\0
+142	4586	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Wit-5\0	a,Men+4 Wit-5\0
+143	4587	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Int-5\0	a,Wit+4 Int-5\0
+144	4588	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Men-5\0	a,Wit+4 Men-5\0
+145	4589	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Con-2\0	a,Str+2 Con-2\0
+146	4590	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+2 Dex-2\0	a,Str+2 Dex-2\0
+147	4591	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Str-2\0	a,Con+2 Str-2\0
+148	4592	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+2 Dex-2\0	a,Con+2 Dex-2\0
+149	4593	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Str-2\0	a,Dex+2 Str-2\0
+150	4594	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+2 Con-2\0	a,Dex+2 Con-2\0
+151	4595	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Men-2\0	a,Int+2 Men-2\0
+152	4596	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+2 Wit-2\0	a,Int+2 Wit-2\0
+153	4597	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Int-2\0	a,Men+2 Int-2\0
+154	4598	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+2 Wit-2\0	a,Men+2 Wit-2\0
+155	4599	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Int-2\0	a,Wit+2 Int-2\0
+156	4600	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+2 Men-2\0	a,Wit+2 Men-2\0
+157	4601	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Con-3\0	a,Str+3 Con-3\0
+158	4602	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+3 Dex-3\0	a,Str+3 Dex-3\0
+159	4603	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Str-3\0	a,Con+3 Str-3\0
+160	4604	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+3 Dex-3\0	a,Con+3 Dex-3\0
+161	4605	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Str-3\0	a,Dex+3 Str-3\0
+162	4606	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+3 Con-3\0	a,Dex+3 Con-3\0
+163	4607	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Men-3\0	a,Int+3 Men-3\0
+164	4608	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+3 Wit-3\0	a,Int+3 Wit-3\0
+165	4609	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Int-3\0	a,Men+3 Int-3\0
+166	4610	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+3 Wit-3\0	a,Men+3 Wit-3\0
+167	4611	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Int-3\0	a,Wit+3 Int-3\0
+168	4612	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+3 Men-3\0	a,Wit+3 Men-3\0
+169	4613	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Con-4\0	a,Str+4 Con-4\0
+170	4614	u,高級力量紋章\0	a,icon.etc_str_symbol_i01\0	a,Str+4 Dex-4\0	a,Str+4 Dex-4\0
+171	4615	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Str-4\0	a,Con+4 Str-4\0
+172	4616	u,高級體質紋章\0	a,icon.etc_con_symbol_i01\0	a,Con+4 Dex-4\0	a,Con+4 Dex-4\0
+173	4617	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Str-4\0	a,Dex+4 Str-4\0
+174	4618	u,高級敏捷紋章\0	a,icon.etc_dex_symbol_i01\0	a,Dex+4 Con-4\0	a,Dex+4 Con-4\0
+175	4619	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Men-4\0	a,Int+4 Men-4\0
+176	4620	u,高級智力紋章\0	a,icon.etc_int_symbol_i01\0	a,Int+4 Wit-4\0	a,Int+4 Wit-4\0
+177	4621	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Int-4\0	a,Men+4 Int-4\0
+178	4622	u,高級精神紋章\0	a,icon.etc_men_symbol_i01\0	a,Men+4 Wit-4\0	a,Men+4 Wit-4\0
+179	4623	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Int-4\0	a,Wit+4 Int-4\0
+180	4624	u,高級智慧紋章\0	a,icon.etc_wit_symbol_i01\0	a,Wit+4 Men-4\0	a,Wit+4 Men-4\0
+181	17625	u,LV1 巨人力量紋章\0	a,icon.lv1_1_hena_str\0	a,Str+3 Dex-2\0	a,Str+3 Dex-2\0
+182	17626	u,LV1 巨人敏捷紋章\0	a,icon.lv1_1_hena_dex\0	a,Dex+3 Con-2\0	a,Dex+3 Con-2\0
+183	17627	u,LV1 巨人體質紋章\0	a,icon.lv1_1_hena_con\0	a,Con+3 Str-2\0	a,Con+3 Str-2\0
+184	17628	u,LV1 巨人智力紋章\0	a,icon.lv1_1_hena_int\0	a,Int+3 Wit-2\0	a,Int+3 Wit-2\0
+185	17629	u,LV1 巨人智慧紋章\0	a,icon.lv1_1_hena_wit\0	a,Wit+3 Men-2\0	a,Wit+3 Men-2\0
+186	17630	u,LV1 巨人精神紋章\0	a,icon.lv1_1_hena_men\0	a,Men+3 Int-2\0	a,Men+3 Int-2\0
+187	17631	u,LV1 古代力量紋章\0	a,icon.lv1_2_hena_str\0	u,Str+3 Dex-2 火屬性抗性 +5\0	u,Str+3 Dex-2 火屬性抗性 +5\0
+188	17632	u,LV1 古代敏捷紋章\0	a,icon.lv1_2_hena_dex\0	u,Dex+3 Con-2 大地屬性抗性+5\0	u,Dex+3 Con-2 大地屬性抗性+5\0
+189	17633	u,LV1 古代體質紋章\0	a,icon.lv1_2_hena_con\0	u,Con+3 Str-2 黑暗屬性抗性+5\0	u,Con+3 Str-2 黑暗屬性抗性+5\0
+190	17634	u,LV1 古代智力紋章\0	a,icon.lv1_2_hena_int\0	u,Int+3 Wit-2 水屬性抗性+5\0	u,Int+3 Wit-2 水屬性抗性+5\0
+191	17635	u,LV1 古代智慧紋章\0	a,icon.lv1_2_hena_wit\0	u,Wit+3 Men-2 風屬性抗性+5\0	u,Wit+3 Men-2 風屬性抗性+5\0
+192	17636	u,LV1 古代精神紋章\0	a,icon.lv1_2_hena_men\0	u,Men+3 Int-2 神聖屬性抗性+5\0	u,Men+3 Int-2 神聖屬性抗性+5\0
+193	17637	u,LV1 傳說力量紋章\0	a,icon.lv1_3_hena_str\0	u,Str+3 Dex-1 火屬性抗性 +5\0	u,Str+3 Dex-1 火屬性抗性 +5\0
+194	17638	u,LV1 傳說敏捷紋章\0	a,icon.lv1_3_hena_dex\0	u,Dex+3 Con-1 大地屬性抗性+5\0	u,Dex+3 Con-1 大地屬性抗性+5\0
+195	17639	u,LV1 傳說體質紋章\0	a,icon.lv1_3_hena_con\0	u,Con+3 Str-1 黑暗屬性抗性+5\0	u,Con+3 Str-1 黑暗屬性抗性+5\0
+196	17640	u,LV1 傳說智力紋章\0	a,icon.lv1_3_hena_int\0	u,Int+3 Wit-1 水屬性抗性+5\0	u,Int+3 Wit-1 水屬性抗性+5\0
+197	17641	u,LV1 傳說智慧紋章\0	a,icon.lv1_3_hena_wit\0	u,Wit+3 Men-1 風屬性抗性+5\0	u,Wit+3 Men-1 風屬性抗性+5\0
+198	17642	u,LV1 傳說精神紋章\0	a,icon.lv1_3_hena_men\0	u,Men+3 Int-1 神聖屬性抗性+5\0	u,Men+3 Int-1 神聖屬性抗性+5\0
+199	17643	u,LV2 巨人力量紋章\0	a,icon.lv2_1_hena_str\0	a,Str+4 Dex-3\0	a,Str+4 Dex-3\0
+200	17644	u,LV2 巨人敏捷紋章\0	a,icon.lv2_1_hena_dex\0	a,Dex+4 Con-3\0	a,Dex+4 Con-3\0
+201	17645	u,LV2 巨人體質紋章\0	a,icon.lv2_1_hena_con\0	a,Con+4 Str-3\0	a,Con+4 Str-3\0
+202	17646	u,LV2 巨人智力紋章\0	a,icon.lv2_1_hena_int\0	a,Int+4 Wit-3\0	a,Int+4 Wit-3\0
+203	17647	u,LV2 巨人智慧紋章\0	a,icon.lv2_1_hena_wit\0	a,Wit+4 Men-3\0	a,Wit+4 Men-3\0
+204	17648	u,LV2 巨人精神紋章\0	a,icon.lv2_1_hena_men\0	a,Men+4 Int-3\0	a,Men+4 Int-3\0
+205	17649	u,LV2 古代力量紋章\0	a,icon.lv2_2_hena_str\0	u,Str+4 Dex-3 火屬性抗性 +10\0	u,Str+4 Dex-3 火屬性抗性 +10\0
+206	17650	u,LV2 古代敏捷紋章\0	a,icon.lv2_2_hena_dex\0	u,Dex+4 Con-3 大地屬性抗性+10\0	u,Dex+4 Con-3 大地屬性抗性+10\0
+207	17651	u,LV2 古代體質紋章\0	a,icon.lv2_2_hena_con\0	u,Con+4 Str-3 黑暗屬性抗性+10\0	u,Con+4 Str-3 黑暗屬性抗性+10\0
+208	17652	u,LV2 古代智力紋章\0	a,icon.lv2_2_hena_int\0	u,Int+4 Wit-3 水屬性抗性+10\0	u,Int+4 Wit-3 水屬性抗性+10\0
+209	17653	u,LV2 古代智慧紋章\0	a,icon.lv2_2_hena_wit\0	u,Wit+4 Men-3 風屬性抗性+10\0	u,Wit+4 Men-3 風屬性抗性+10\0
+210	17654	u,LV2 古代精神紋章\0	a,icon.lv2_2_hena_men\0	u,Men+4 Int-3 神聖屬性抗性+10\0	u,Men+4 Int-3 神聖屬性抗性+10\0
+211	17655	u,LV2 傳說力量紋章\0	a,icon.lv2_3_hena_str\0	u,Str+4 Dex-2 火屬性抗性 +10\0	u,Str+4 Dex-2 火屬性抗性 +10\0
+212	17656	u,LV2 傳說敏捷紋章\0	a,icon.lv2_3_hena_dex\0	u,Dex+4 Con-2 大地屬性抗性+10\0	u,Dex+4 Con-2 大地屬性抗性+10\0
+213	17657	u,LV2 傳說體質紋章\0	a,icon.lv2_3_hena_con\0	u,Con+4 Str-2 黑暗屬性抗性+10\0	u,Con+4 Str-2 黑暗屬性抗性+10\0
+214	17658	u,LV2 傳說智力紋章\0	a,icon.lv2_3_hena_int\0	u,Int+4 Wit-2 水屬性抗性+10\0	u,Int+4 Wit-2 水屬性抗性+10\0
+215	17659	u,LV2 傳說智慧紋章\0	a,icon.lv2_3_hena_wit\0	u,Wit+4 Men-2 風屬性抗性+10\0	u,Wit+4 Men-2 風屬性抗性+10\0
+216	17660	u,LV2 傳說精神紋章\0	a,icon.lv2_3_hena_men\0	u,Men+4 Int-2 神聖屬性抗性+10\0	u,Men+4 Int-2 神聖屬性抗性+10\0
+217	17661	u,LV3 巨人力量紋章\0	a,icon.lv3_1_hena_str\0	a,Str+5 Dex-4\0	a,Str+5 Dex-4\0
+218	17662	u,LV3 巨人敏捷紋章\0	a,icon.lv3_1_hena_dex\0	a,Dex+5 Con-4\0	a,Dex+5 Con-4\0
+219	17663	u,LV3 巨人體質紋章\0	a,icon.lv3_1_hena_con\0	a,Con+5 Str-4\0	a,Con+5 Str-4\0
+220	17664	u,LV3 巨人智力紋章\0	a,icon.lv3_1_hena_int\0	a,Int+5 Wit-4\0	a,Int+5 Wit-4\0
+221	17665	u,LV3 巨人智慧紋章\0	a,icon.lv3_1_hena_wit\0	a,Wit+5 Men-4\0	a,Wit+5 Men-4\0
+222	17666	u,LV3 巨人精神紋章\0	a,icon.lv3_1_hena_men\0	a,Men+5 Int-4\0	a,Men+5 Int-4\0
+223	17667	u,LV3 古代力量紋章\0	a,icon.lv3_2_hena_str\0	u,Str+5 Dex-4 火屬性抗性 +15\0	u,Str+5 Dex-4 火屬性抗性 +15\0
+224	17668	u,LV3 古代敏捷紋章\0	a,icon.lv3_2_hena_dex\0	u,Dex+5 Con-4 大地屬性抗性+15\0	u,Dex+5 Con-4 大地屬性抗性+15\0
+225	17669	u,LV3 古代體質紋章\0	a,icon.lv3_2_hena_con\0	u,Con+5 Str-4 黑暗屬性抗性+15\0	u,Con+5 Str-4 黑暗屬性抗性+15\0
+226	17670	u,LV3 古代智力紋章\0	a,icon.lv3_2_hena_int\0	u,Int+5 Wit-4 水屬性抗性+15\0	u,Int+5 Wit-4 水屬性抗性+15\0
+227	17671	u,LV3 古代智慧紋章\0	a,icon.lv3_2_hena_wit\0	u,Wit+5 Men-4 風屬性抗性+15\0	u,Wit+5 Men-4 風屬性抗性+15\0
+228	17672	u,LV3 古代精神紋章\0	a,icon.lv3_2_hena_men\0	u,Men+5 Int-4 神聖屬性抗性+15\0	u,Men+5 Int-4 神聖屬性抗性+15\0
+229	17673	u,LV3 傳說力量紋章\0	a,icon.lv3_3_hena_str\0	u,Str+5 Dex-3 火屬性抗性 +15\0	u,Str+5 Dex-3 火屬性抗性 +15\0
+230	17674	u,LV3 傳說敏捷紋章\0	a,icon.lv3_3_hena_dex\0	u,Dex+5 Con-3 大地屬性抗性+15\0	u,Dex+5 Con-3 大地屬性抗性+15\0
+231	17675	u,LV3 傳說體質紋章\0	a,icon.lv3_3_hena_con\0	u,Con+5 Str-3 黑暗屬性抗性+15\0	u,Con+5 Str-3 黑暗屬性抗性+15\0
+232	17676	u,LV3 傳說智力紋章\0	a,icon.lv3_3_hena_int\0	u,Int+5 Wit-3 水屬性抗性+15\0	u,Int+5 Wit-3 水屬性抗性+15\0
+233	17677	u,LV3 傳說智慧紋章\0	a,icon.lv3_3_hena_wit\0	u,Wit+5 Men-3 風屬性抗性+15\0	u,Wit+5 Men-3 風屬性抗性+15\0
+234	17678	u,LV3 傳說精神紋章\0	a,icon.lv3_3_hena_men\0	u,Men+5 Int-3 神聖屬性抗性+15\0	u,Men+5 Int-3 神聖屬性抗性+15\0
+235	17679	u,LV4 巨人力量紋章\0	a,icon.lv4_1_hena_str\0	a,Str+5 Dex-2\0	a,Str+5 Dex-2\0
+236	17680	u,LV4 巨人敏捷紋章\0	a,icon.lv4_1_hena_dex\0	a,Dex+5 Con-2\0	a,Dex+5 Con-2\0
+237	17681	u,LV4 巨人體質紋章\0	a,icon.lv4_1_hena_con\0	a,Con+5 Str-2\0	a,Con+5 Str-2\0
+238	17682	u,LV4 巨人智力紋章\0	a,icon.lv4_1_hena_int\0	a,Int+5 Wit-2\0	a,Int+5 Wit-2\0
+239	17683	u,LV4 巨人智慧紋章\0	a,icon.lv4_1_hena_wit\0	a,Wit+5 Men-2\0	a,Wit+5 Men-2\0
+240	17684	u,LV4 巨人精神紋章\0	a,icon.lv4_1_hena_men\0	a,Men+5 Int-2\0	a,Men+5 Int-2\0
+241	17685	u,LV4 古代力量紋章\0	a,icon.lv4_2_hena_str\0	u,Str+5 Dex-2 火屬性抗性 +20\0	u,Str+5 Dex-2 火屬性抗性 +20\0
+242	17686	u,LV4 古代敏捷紋章\0	a,icon.lv4_2_hena_dex\0	u,Dex+5 Con-2 大地屬性抗性+20\0	u,Dex+5 Con-2 大地屬性抗性+20\0
+243	17687	u,LV4 古代體質紋章\0	a,icon.lv4_2_hena_con\0	u,Con+5 Str-2 黑暗屬性抗性+20\0	u,Con+5 Str-2 黑暗屬性抗性+20\0
+244	17688	u,LV4 古代智力紋章\0	a,icon.lv4_2_hena_int\0	u,Int+5 Wit-2 水屬性抗性+20\0	u,Int+5 Wit-2 水屬性抗性+20\0
+245	17689	u,LV4 古代智慧紋章\0	a,icon.lv4_2_hena_wit\0	u,Wit+5 Men-2 風屬性抗性+20\0	u,Wit+5 Men-2 風屬性抗性+20\0
+246	17690	u,LV4 古代精神紋章\0	a,icon.lv4_2_hena_men\0	u,Men+5 Int-2 神聖屬性抗性+20\0	u,Men+5 Int-2 神聖屬性抗性+20\0
+247	17691	u,LV4 傳說力量紋章\0	a,icon.lv4_3_hena_str\0	u,Str+5 Dex-1 火屬性抗性 +20\0	u,Str+5 Dex-1 火屬性抗性 +20\0
+248	17692	u,LV4 傳說敏捷紋章\0	a,icon.lv4_3_hena_dex\0	u,Dex+5 Con-1 大地屬性抗性+20\0	u,Dex+5 Con-1 大地屬性抗性+20\0
+249	17693	u,LV4 傳說體質紋章\0	a,icon.lv4_3_hena_con\0	u,Con+5 Str-1 黑暗屬性抗性+20\0	u,Con+5 Str-1 黑暗屬性抗性+20\0
+250	17694	u,LV4 傳說智力紋章\0	a,icon.lv4_3_hena_int\0	u,Int+5 Wit-1 水屬性抗性+20\0	u,Int+5 Wit-1 水屬性抗性+20\0
+251	17695	u,LV4 傳說智慧紋章\0	a,icon.lv4_3_hena_wit\0	u,Wit+5 Men-1 風屬性抗性+20\0	u,Wit+5 Men-1 風屬性抗性+20\0
+252	17696	u,LV4 傳說精神紋章\0	a,icon.lv4_3_hena_men\0	u,Men+5 Int-1 神聖屬性抗性+20\0	u,Men+5 Int-1 神聖屬性抗性+20\0
+253	17697	u,LV5 巨人力量紋章\0	a,icon.lv5_1_hena_str\0	a,Str+5\0	a,Str+5\0
+254	17698	u,LV5 巨人敏捷紋章\0	a,icon.lv5_1_hena_dex\0	a,Dex+5\0	a,Dex+5\0
+255	17699	u,LV5 巨人體質紋章\0	a,icon.lv5_1_hena_con\0	a,Con+5\0	a,Con+5\0
+256	17700	u,LV5 巨人智力紋章\0	a,icon.lv5_1_hena_int\0	a,Int+5\0	a,Int+5\0
+257	17701	u,LV5 巨人智慧紋章\0	a,icon.lv5_1_hena_wit\0	a,Wit+5\0	a,Wit+5\0
+258	17702	u,LV5 巨人精神紋章\0	a,icon.lv5_1_hena_men\0	a,Men+5\0	a,Men+5\0
+259	17703	u,LV5 古代力量紋章\0	a,icon.lv5_2_hena_str\0	u,Str+5 火屬性抗性 +25\0	u,Str+5 火屬性抗性 +25\0
+260	17704	u,LV5 古代敏捷紋章\0	a,icon.lv5_2_hena_dex\0	u,Dex+5 大地屬性抗性+25\0	u,Dex+5 大地屬性抗性+25\0
+261	17705	u,LV5 古代體質紋章\0	a,icon.lv5_2_hena_con\0	u,Con+5 黑暗屬性抗性+25\0	u,Con+5 黑暗屬性抗性+25\0
+262	17706	u,LV5 古代智力紋章\0	a,icon.lv5_2_hena_int\0	u,Int+5 水屬性抗性+25\0	u,Int+5 水屬性抗性+25\0
+263	17707	u,LV5 古代智慧紋章\0	a,icon.lv5_2_hena_wit\0	u,Wit+5 風屬性抗性+25\0	u,Wit+5 風屬性抗性+25\0
+264	17708	u,LV5 古代精神紋章\0	a,icon.lv5_2_hena_men\0	u,Men+5 神聖屬性抗性+25\0	u,Men+5 神聖屬性抗性+25\0
+265	17709	u,LV5 傳說力量紋章\0	a,icon.lv5_3_hena_str\0	u,Str+5 Dex+1 火屬性抗性 +25\0	u,Str+5 Dex+1 火屬性抗性 +25\0
+266	17710	u,LV5 傳說敏捷紋章\0	a,icon.lv5_3_hena_dex\0	u,Dex+5 Con+1 大地屬性抗性+25\0	u,Dex+5 Con+1 大地屬性抗性+25\0
+267	17711	u,LV5 傳說體質紋章\0	a,icon.lv5_3_hena_con\0	u,Con+5 Str+1 黑暗屬性抗性+25\0	u,Con+5 Str+1 黑暗屬性抗性+25\0
+268	17712	u,LV5 傳說智力紋章\0	a,icon.lv5_3_hena_int\0	u,Int+5 Wit+1 水屬性抗性+25\0	u,Int+5 Wit+1 水屬性抗性+25\0
+269	17713	u,LV5 傳說智慧紋章\0	a,icon.lv5_3_hena_wit\0	u,Wit+5 Men+1 風屬性抗性+25\0	u,Wit+5 Men+1 風屬性抗性+25\0
+270	17714	u,LV5 傳說精神紋章\0	a,icon.lv5_3_hena_men\0	u,Men+5 Int+1 神聖屬性抗性+25\0	u,Men+5 Int+1 神聖屬性抗性+25\0

@@ -1,0 +1,151 @@
+﻿id	name	val1	val2
+1	a,SetPrevChatType\0	1801	2501
+2	a,SetNextChatType\0	1802	2502
+4	a,FocusChatWindow\0	1804	2504
+5	a,TabShowInventoryWindow\0	1805	2505
+6	a,HideAllWindow\0	1806	2506
+7	a,CloseAllWindow\0	1807	2507
+8	a,ShowGMWindow\0	1808	2508
+9	a,ShowGMPetitionWindow\0	1809	2509
+10	a,ShowPartyBuff\0	1810	2510
+11	a,ApplyMinFrame\0	1811	2511
+12	a,ShowWindow Name=PersonalConnectionsWnd\0	1812	2512
+13	a,UseShortcutItem Num=0\0	1813	2513
+14	a,UseShortcutItem Num=1\0	1814	2514
+15	a,UseShortcutItem Num=2\0	1815	2515
+16	a,UseShortcutItem Num=3\0	1816	2516
+17	a,UseShortcutItem Num=4\0	1817	2517
+18	a,UseShortcutItem Num=5\0	1818	2518
+19	a,UseShortcutItem Num=6\0	1819	2519
+20	a,UseShortcutItem Num=7\0	1820	2520
+21	a,UseShortcutItem Num=8\0	1821	2521
+22	a,UseShortcutItem Num=9\0	1822	2522
+23	a,UseShortcutItem Num=10\0	1823	2523
+24	a,UseShortcutItem Num=11\0	1824	2524
+25	a,UseShortcutItem Num=12\0	1825	2525
+26	a,UseShortcutItem Num=13\0	1826	2526
+27	a,UseShortcutItem Num=14\0	1827	2527
+28	a,UseShortcutItem Num=15\0	1828	2528
+29	a,UseShortcutItem Num=16\0	1829	2529
+30	a,UseShortcutItem Num=17\0	1830	2530
+31	a,UseShortcutItem Num=18\0	1831	2531
+32	a,UseShortcutItem Num=19\0	1832	2532
+33	a,UseShortcutItem Num=20\0	1833	2533
+34	a,UseShortcutItem Num=21\0	1834	2534
+35	a,UseShortcutItem Num=22\0	1835	2535
+36	a,UseShortcutItem Num=23\0	1836	2536
+37	a,UseShortcutItem Num=24\0	1837	2537
+38	a,UseShortcutItem Num=25\0	1838	2538
+39	a,UseShortcutItem Num=26\0	1839	2539
+40	a,UseShortcutItem Num=27\0	1840	2540
+41	a,UseShortcutItem Num=28\0	1841	2541
+42	a,UseShortcutItem Num=29\0	1842	2542
+43	a,UseShortcutItem Num=30\0	1843	2543
+44	a,UseShortcutItem Num=31\0	1844	2544
+45	a,UseShortcutItem Num=32\0	1845	2545
+46	a,UseShortcutItem Num=33\0	1846	2546
+47	a,UseShortcutItem Num=34\0	1847	2547
+48	a,UseShortcutItem Num=35\0	1848	2548
+49	a,SetShortcutPage Num=0\0	1849	2549
+50	a,SetShortcutPage Num=1\0	1850	2550
+51	a,SetShortcutPage Num=2\0	1851	2551
+52	a,SetShortcutPage Num=3\0	1852	2552
+53	a,SetShortcutPage Num=4\0	1853	2553
+54	a,SetShortcutPage Num=5\0	1854	2554
+55	a,SetShortcutPage Num=6\0	1855	2555
+56	a,SetShortcutPage Num=7\0	1856	2556
+57	a,SetShortcutPage Num=8\0	1857	2557
+58	a,SetShortcutPage Num=9\0	1858	2558
+59	a,ShowWindow Name=ActionWnd\0	1859	2559
+60	a,ShowWindow Name=BoardWnd\0	1860	2560
+61	a,ShowWindow Name=CalculatorWnd\0	1861	2561
+62	a,ShowWindow Name=ChatWnd\0	1862	2562
+63	a,ShowWindow Name=ClanWnd\0	1863	2563
+64	a,ShowWindow Name=DetailStatusWnd\0	1864	2564
+65	a,ShowWindow Name=HelpHtmlWnd\0	1865	2565
+66	a,ShowWindow Name=InventoryWnd\0	1866	2566
+67	a,ShowWindow Name=MacroWnd\0	1867	2567
+68	a,ShowWindow Name=MagicSkillWnd\0	1868	2568
+69	a,ShowWindow Name=MenuWnd\0	1869	2569
+70	a,ShowWindow Name=MinimapWnd\0	1870	2570
+71	a,ShowWindow Name=OptionWnd\0	1871	2571
+72	a,ShowWindow Name=PartyMatchWnd\0	1872	2572
+73	a,ShowWindow Name=QuestTreeWnd\0	1873	2573
+74	a,ShowWindow Name=RadarMapWnd\0	1874	2574
+75	a,ShowWindow Name=StatusWnd\0	1875	2575
+76	a,ShowWindow Name=SystemMenuWnd\0	1876	2576
+77	a,ShowWindow Name=FN_HideDropItemSilhauette\0	1877	2577
+78	a,ShowWindow Name=FN_SendTargetedCharacterMessage\0	1878	2578
+79	a,ShowWindow Name=FN_MuteAllAudio\0	1879	2579
+80	a,ShowWindow Name=FN_SHORTCUTEXPAND\0	1880	2580
+81	a,ShowWindow Name=FN_UILocReset\0	1881	2581
+82	a,LeftTurn\0	1882	2582
+83	a,RightTurn\0	1883	2583
+84	a,MoveForward\0	1884	2584
+85	a,MoveBackward\0	1885	2585
+86	a,AutoMove\0	1886	2586
+87	a,ZoomIn\0	1887	2587
+88	a,ZoomOut\0	1888	2588
+89	a,TurnBack\0	1889	2589
+90	a,ShowWindow Name=GMWnd\0	1890	2590
+91	a,ShowWindow Name=GMPetitionWnd\0	1891	2591
+93	a,FixedDefaultCamera Down\0	1893	2593
+94	a,FixedDefaultCamera Up\0	1894	2594
+95	a,FixedDefaultCamera\0	1895	2595
+96	a,StopLeftTurn\0	1896	2596
+97	a,StopRightTurn\0	1897	2597
+98	a,StopMoveForward\0	1898	2598
+99	a,StopMoveBackward\0	1899	2599
+300	a,EulaWndOKButton\0	2100	2800
+301	a,ChinaWarnMsgOKButton\0	2101	2801
+302	a,ServerSelectOKButton\0	2102	2802
+303	a,BroadcastShowPartyWindow\0	2103	2803
+304	a,BroadcastLockPosition\0	2104	2804
+305	a,BroadcastInitPosition\0	2105	2805
+306	a,BroadcastToggleShowClassOrName\0	2106	2806
+307	a,BroadcastToggleTargetName\0	2107	2807
+308	a,BroadcastSwitchMessageMode\0	2108	2808
+309	a,BroadcastShowPartyWindow\0	2109	2809
+310	a,BroadcastLockPosition\0	2110	2810
+311	a,BroadcastInitPosition\0	2111	2811
+312	a,BroadcastToggleShowClassOrName\0	2112	2812
+313	a,BroadcastToggleTargetName\0	2113	2813
+314	a,BroadcastSwitchMessageMode\0	2114	2814
+315	a,ShowChatWindow\0	2115	2815
+316	a,ReserveShortcutItem Num=120\0	2116	2816
+317	a,ReserveShortcutItem Num=121\0	2117	2817
+318	a,ReserveShortcutItem Num=122\0	2118	2818
+319	a,ReserveShortcutItem Num=123\0	2119	2819
+320	a,ReserveShortcutItem Num=124\0	2120	2820
+321	a,ReserveShortcutItem Num=125\0	2121	2821
+322	a,ReserveShortcutItem Num=126\0	2122	2822
+323	a,ReserveShortcutItem Num=127\0	2123	2823
+324	a,ReserveShortcutItem Num=128\0	2124	2824
+325	a,ReserveShortcutItem Num=129\0	2125	2825
+326	a,ReserveShortcutItem Num=130\0	2126	2826
+327	a,ReserveShortcutItem Num=131\0	2127	2827
+328	a,ReserveShortcutItem Num=132\0	2128	2828
+329	a,ReserveShortcutItem Num=133\0	2129	2829
+330	a,ReserveShortcutItem Num=134\0	2130	2830
+331	a,ReserveShortcutItem Num=135\0	2131	2831
+332	a,ReserveShortcutItem Num=136\0	2132	2832
+333	a,ReserveShortcutItem Num=137\0	2133	2833
+334	a,ReserveShortcutItem Num=138\0	2134	2834
+335	a,ReserveShortcutItem Num=139\0	2135	2835
+336	a,ReserveShortcutItem Num=140\0	2136	2836
+337	a,ReserveShortcutItem Num=141\0	2137	2837
+338	a,ReserveShortcutItem Num=142\0	2138	2838
+339	a,ReserveShortcutItem Num=143\0	2139	2839
+340	a,UseReservedShortcutItem\0	2140	2840
+341	a,MoveUp\0	2141	2841
+342	a,MoveDown\0	2142	2842
+343	a,MoveUpAirship\0	2143	2843
+344	a,MoveDownAirship\0	2144	2844
+345	a,AutoMovingForward\0	2145	2845
+346	a,StopUseReservedShortcutItem\0	2146	2846
+347	a,StopMoveUp\0	2147	2847
+348	a,StopMoveDown\0	2148	2848
+349	a,StopMoveUpAirship\0	2149	2849
+350	a,StopMoveDownAirship\0	2150	2850
+351	a,StopMoveAll\0	2151	2851
+352	a,StopMoveAirship\0	2152	2852
